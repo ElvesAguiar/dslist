@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto foi desenvolvido em Java Spring Boot Rest. Projeto de lista de jogos com informações detalhadas sobre cada um deles. Os dados incluem o título do jogo, o ano de lançamento, o gênero, as plataformas suportadas, nota do jogo, uma imagem relacionada, uma descrição breve e uma descrição longa.
+O projeto foi desenvolvido em Java Spring Boot Rest, durante o evento Intensivão Java Spring da DevSuperior-https://www.youtube.com/@DevSuperior. Projeto de lista de jogos com informações detalhadas sobre cada um deles. Os dados incluem o título do jogo, o ano de lançamento, o gênero, as plataformas suportadas, nota do jogo, uma imagem relacionada, uma descrição breve e uma descrição longa.
 
 
 ## Modelo conceitual
